@@ -1,0 +1,3 @@
+Foobar
+
+:ref:`crossfilelabel`
