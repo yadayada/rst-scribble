@@ -1,6 +1,6 @@
 Foobar
 
-`some label <lbl>`_
+`some label :doc:`some lbl<lbl.rst>`_
 
 .. comment
     some more text
