@@ -1,6 +1,6 @@
 Foobar
 
-:doc:`some label <lbl>`
+:doc:`some label <lbl>`_
 
 .. comment
     some more text
