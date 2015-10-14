@@ -1,6 +1,6 @@
 Foobar
 
-:ref:`crossfilelabel`
+:doc:`some label<lbl>`
 
 .. comment
     some more text
