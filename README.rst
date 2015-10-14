@@ -1,6 +1,6 @@
 Foobar
 
-`some label <lbl.rst>`_
+`some label <lbl>`_
 
 .. comment
     some more text
